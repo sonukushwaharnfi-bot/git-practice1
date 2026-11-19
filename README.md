@@ -1,2 +1,1 @@
-My First Git Repository
-This change is only for DEV branch
+This commit  is only for Dev branch to testing
